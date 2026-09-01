@@ -1,1 +1,2 @@
 Reflog - commit 1
+Reflog - commit 2
