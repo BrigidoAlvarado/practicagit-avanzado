@@ -5,10 +5,10 @@ void main() {
     // to see how IntelliJ IDEA suggests fixing it.
     IO.println("Practica Git Avanzado - V3 ");
 
-    for (int i = 1; i <= 5; i++) {
+    for (int l = 1; l <= 5; l++) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i valor igual a " + i);
+        IO.println("l valor igual a " + l);
     }
 
     for (int i = 1; i >= 5; i++)
